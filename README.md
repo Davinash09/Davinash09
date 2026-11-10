@@ -37,7 +37,7 @@ A Java-based application for managing student records with CRUD operations.
 
 - [LeetCode](https://leetcode.com/u/davimakineni8484/)
 - [HackerRank](https://www.hackerrank.com/profile/davimakineni8484)
-- [GeeksforGeeks]([https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/profile/davimakin66ul))
+- [GeeksforGeeks](https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/profile/davimakin66ul))
 
 ## 🏆 Achievements
 
